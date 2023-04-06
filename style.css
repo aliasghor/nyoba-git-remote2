@@ -1,13 +1,8 @@
 body {
     padding-bottom: 1000px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #eee;
+    font-family: georgia;
 }
 
 h1 {
-    color: aqua;
-}
-
-h1:hover {
-    background-color: blue;
+    color: red;
 }
